@@ -27,6 +27,7 @@ Ya con el entorno virtual activado, instala la biblioteca pandas con el siguient
 ```sh
 pip install pandas
 ```
+Mas informacion sobre la biblioteca [pagina oficial de pandas](https://pandas.pydata.org/docs/getting_started/index.html)
 
 ## Ejecutar la Limpieza de Datos
 
